@@ -1,0 +1,58 @@
+{
+  "id": "the-stormlight-archive-craghaven-mods",
+  "title": "The Stormlight Archive: Craghaven Mods",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "cosmere-rpg-stormlight-handbook",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "cosmere-rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Dex Sinister",
+      "discord": "dexter_sinister",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "craghaven-macros",
+      "label": "Craghaven Macros",
+      "path": "packs/craghaven-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cosmere-rpg",
+      "flags": {}
+    },
+    {
+      "name": "craghaven-items",
+      "label": "Craghaven Items",
+      "path": "packs/craghaven-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cosmere-rpg",
+      "flags": {}
+    }
+  ]
+}

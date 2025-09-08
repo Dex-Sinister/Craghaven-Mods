@@ -1,7 +1,7 @@
 {
   "id": "the-stormlight-archive-craghaven-mods",
   "title": "The Stormlight Archive: Craghaven Mods",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -55,6 +55,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/Dex-Sinister/Craghaven-Mods/blob/6830cfa65128a0d78be1aa46725184068bf604b2/module.json",
-  "download": "https://github.com/Dex-Sinister/Craghaven-Mods/releases/download/1.0/the-stormlight-archive-craghaven-mods.zip"
+  "manifest": "https://raw.githubusercontent.com/Dex-Sinister/Craghaven-Mods/refs/heads/main/module.json",
+  "download": "https://github.com/Dex-Sinister/Craghaven-Mods/releases/download/1.1/the-stormlight-archive-craghaven-mods.zip"
 }

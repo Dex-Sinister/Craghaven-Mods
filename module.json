@@ -54,5 +54,7 @@
       "system": "cosmere-rpg",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://github.com/Dex-Sinister/Craghaven-Mods/blob/6830cfa65128a0d78be1aa46725184068bf604b2/module.json",
+  "download": "https://github.com/Dex-Sinister/Craghaven-Mods/releases/download/1.0/the-stormlight-archive-craghaven-mods.zip"
 }
